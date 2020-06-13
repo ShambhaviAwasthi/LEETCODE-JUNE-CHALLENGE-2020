@@ -1,5 +1,5 @@
 // Shambhavi Awasthi
-// LEETCODE MAY CHALLENGE
+// LEETCODE JUNE CHALLENGE
 // DAY 12: Insert Delete GetRandom O(1)
 
 class RandomizedSet {
