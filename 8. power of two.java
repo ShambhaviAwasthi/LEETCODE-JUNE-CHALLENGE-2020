@@ -1,5 +1,5 @@
 // Shambhavi Awasthi
-// LEETCODE MAY CHALLENGE
+// LEETCODE JUNE CHALLENGE
 // DAY 8: power of 2
 
 class Solution {
