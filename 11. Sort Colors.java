@@ -1,5 +1,5 @@
 // Shambhavi Awasthi
-// LEETCODE MAY CHALLENGE
+// LEETCODE JUNE CHALLENGE
 // DAY 11: Sort Colors
 
 class Solution {
