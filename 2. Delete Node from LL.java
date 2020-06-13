@@ -1,5 +1,5 @@
 // Shambhavi Awasthi
-// LEETCODE MAY CHALLENGE
+// LEETCODE JUNE CHALLENGE
 // DAY 2: Delete node from LL
 
 /**
