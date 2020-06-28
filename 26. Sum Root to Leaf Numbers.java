@@ -1,6 +1,6 @@
 // SHAMBHAVI AWASTHI
 // JUNE LEETCODE CHALLENGE 2020
-// DAY 28 : Sum Root to Leaf Numbers
+// DAY 26 : Sum Root to Leaf Numbers
 
 /**
  * Definition for a binary tree node.
